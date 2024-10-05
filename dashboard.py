@@ -1,4 +1,7 @@
 import streamlit as st
+import matplotlib.pyplot as plt
+import pandas as pd
+import seaborn as sb
 
 # EDA
 # relationship between weather and total users (df_day)
